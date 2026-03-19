@@ -1,0 +1,44 @@
+[
+{
+"firstName": "Sarthak",
+"lastName": "Paliwal",
+"email": "sarthak.paliwal@example.com",
+"gender": "Male",
+"mobile": "9876543210",
+"dob": "10 Jan 2000",
+"subjects": ["Maths", "Physics"],
+"hobbies": ["Sports", "Reading"],
+"picture": "Picture1.png",
+"address": "Udaipur, Rajasthan",
+"state":"NCR",
+"city":"Delhi"
+},
+{
+"firstName": "Keshav",
+"lastName": "Khandelwal",
+"email": "keshav.khandelwal@example.com",
+"gender": "Male",
+"mobile": "9123456780",
+"dob": "15 Feb 2001",
+"subjects": ["Chemistry"],
+"hobbies": ["Reading", "Music"],
+"picture": "Picture 2.png",
+"address": "Jaipur, Rajasthan",
+"state":"Haryana",
+"city":"Panipat"
+},
+{
+"firstName": "Shashwat",
+"lastName": "Jain",
+"email": "shashwat.jain@example.com",
+"gender": "Male",
+"mobile": "9988776655",
+"dob": "22 Mar 2000",
+"subjects": ["Maths", "English"],
+"hobbies": ["Sports", "Music"],
+"picture": "Picture 3.png",
+"address": "Indore, Madhya Pradesh",
+"state":"Rajasthan",
+"city":"Jaipur"
+}
+]

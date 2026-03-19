@@ -1,0 +1,16 @@
+{
+    "type":"Active Account",
+    "name":"Sarthak",
+    "company":"Capgemini",
+    "address":"jecrc university",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "zipCode":"303905",
+    "workPhone":"9926991456",
+    "cellPhone":"9426780503",
+    "otherPhone":"9934772536",
+    "email":"sarthak29@gmail.com",
+    "password":"client123",
+    "webAddress":"https://www.ricekraft.com",
+    "notes":"New user"
+}
